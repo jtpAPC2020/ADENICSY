@@ -7,5 +7,5 @@ This was the first web applicationd developed by the students so there might be 
 __________________________________________________________________________________________
 Update: March 08 2023
 
-The ADENICSY2.zip file containts the recent version of the app and the database is still the same.
+The ADENICSY2.zip file containts the recent version of the app and the database is still the same. Disregard other files as they are just the same but old version of what's in ADENICSY2
 Note: If you want to run the database in you system, rename the file to loginsystem as the code configured in the system's code uses the name 'loginsystem' of the database.
