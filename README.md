@@ -10,5 +10,6 @@ Update: March 08 2023
 The ADENICSY2.zip file containts the recent version of the app and the database is still the same. Disregard other files as they are just the same but old version of what's in ADENICSY2
 Note: If you want to run the database in you system, rename the file to loginsystem as the code configured in the system's code uses the name 'loginsystem' of the database.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+_____________________________________IMPORTANT___________________________
+
 Additional: Due to the limit in file size, aside from downloading ADENICSY2.zip, you also need to upload employee.zip, once both folder are unzipped, put the employee folder inside ADENICSY
